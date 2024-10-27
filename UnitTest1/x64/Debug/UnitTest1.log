@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+C:\Users\se641\source\repos\АП-6.1\АП-6.1\АП-6.1.cpp(41,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/UnitTest1.cpp")
+  
+  UnitTest1.vcxproj -> C:\Users\se641\source\repos\АП-6.1\x64\Debug\UnitTest1.dll
